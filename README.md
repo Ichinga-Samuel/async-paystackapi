@@ -41,7 +41,7 @@ await paystack.subscription.list()
 
 ### Other methods can be found in the docs folder
 
-#### This library is very similar to [andela-sjames/paystack-python](https://github.com/andela-sjames/paystack-python) for easy of use.
+#### This library is very similar to [andela-sjames/paystack-python](https://github.com/andela-sjames/paystack-python) for ease of use.
 #### apart from the "await" syntax most of the syntax is the same. You can check the documentation in that repo until extensive documentation for this version is made.
 
 ### Static Use
